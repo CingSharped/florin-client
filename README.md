@@ -62,7 +62,7 @@ To run the client you have two options:
 
 To access the community site, please click on the link  [Live Site](https://florin-county-council-client.onrender.com/)
 
-To access the server side, please click on the link [Server](https://github.com/yrossan/florin_server)
+To access the server side, please click on the link [Server](https://florin-server-web.onrender.com/)
 
 ### Testing - Jest
 
